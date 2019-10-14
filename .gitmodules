@@ -1,0 +1,3 @@
+[submodule "event-dispatcher"]
+	path = event-dispatcher
+	url = https://github.com/jjromphf/rcl-scriptcraft-event-dispatcher.git
